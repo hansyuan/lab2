@@ -37,3 +37,13 @@ body {
     background-color:green;
     margin-left: 10px;
 }
+
+.contact-info {
+    font-size: 20pt;
+    color: #dddddd;
+}
+
+.project {
+    background-color: blue;
+    margin-left: 20px;
+}
