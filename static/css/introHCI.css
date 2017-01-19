@@ -12,7 +12,7 @@
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
 body {
-     border: 1px dotted gray;
+     border: 5px dotted gray;
      padding: 20px;
 }
 
@@ -40,20 +40,16 @@ img .thumbnail {
 
 .contact-info {
     font-size: 10pt;
-    color: #aaaaaa;
+    color: #cccccc;
 }
 
 .project {
-    background-color: #deeba1;
-    margin-left: 25px;
+    background-color: red;
+    margin-left: 100px;
     padding: 25px;
     width: 550px;
 }
 
-.contact-info {
-    font-size: 20pt;
-    color: #dddddd;
-}
 
 p {
     font-variant: small-caps;
